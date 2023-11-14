@@ -1,7 +1,8 @@
 # Alejandra Lobaton
 
-<img src="logoale.jpg" width="180" height="150"/>
-
+<p align="center">
+<img src="logoale.jpg" width="180" height="150" />
+</p>
 
 ## Sobre mim
 Meu nome é Alejandra sou peruana e moro em Salvador Bahia me formei em engenharia de sistemas em Lima -Peru; estou dando uma atualizada em minha carreira para retornar ao mercado de trabalho, sei que um desafio e tanto, mas com muita vontade de estudar, e de novos desafios para tornar minha volta uma realidade..
