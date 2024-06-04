@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre mim
-Meu nome é Alejandra sou peruana e moro em Salvador Bahia me formei em engenharia de sistemas em Lima -Peru; estou dando uma atualizada em minha carreira para retornar ao mercado de trabalho, sei que um desafio e tanto, mas com muita vontade de estudar, e de novos desafios para tornar minha volta uma realidade..
+Meu nome é Alejandra Lobaton sou peruana e moro em Salvador Bahia Formada em engenharia de sistema em Lima Perú, e com experiência em suporte técnico (N1,N2), meu objetivo é retornar ao mercado de trabalho após de uma pausa na carreira. atualmente estou me preparando para a retomada da minha carreira e meu primeiro passo foi me inscrever no programa de #ElasNaTech estudei o Curso de tecnologia com foco em programação e desenvolvimento web, atualmente sou estudante da escola da nuvem. 
 
 
 ### GitHub Stats ⚡
