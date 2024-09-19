@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre mim
-Meu nome é Alejandra Lobaton sou peruana e moro em Salvador Bahia Formada em engenharia de sistema em Lima Perú, e com experiência em suporte técnico (N1,N2), meu objetivo é retornar ao mercado de trabalho após de uma pausa na carreira, estou fazendo diveros cursos na area de desenvolvimento e cloud atualmente sou estudante no Pro-Talento cloud. 
+Meu nome é Alejandra Lobaton sou peruana e moro em Salvador Bahia Formada em engenharia de sistema em Lima Perú, e com experiência em suporte técnico (N1,N2), meu objetivo é retornar ao mercado de trabalho após de uma pausa na carreira, estou fazendo diveros cursos na area de desenvolvimento e cloud ;atualmente sou estudante no Pro-Talento cloud. 
 
 
 ### GitHub Stats ⚡
